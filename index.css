@@ -1,0 +1,51 @@
+body {
+  background-color: yellow;
+  
+}
+img {
+  width: 200px;
+  margin-top: 20px;
+}
+
+#h1bball {
+text-align: center;
+}
+#sportsbackground {
+  
+  font-family: Trebuchet MS;
+}
+#sportsbackground 
+  {background-color: powderblue;}
+  
+#p1bball { 
+  font-family: Verdana;}
+  
+#p2joyce {
+    color: red;
+    
+  }
+  p {
+    border: 1px solid powderblue;
+}
+
+#myteam {
+  text-align: center;
+  background-color: powderblue ;
+  
+  
+}
+
+iframe {
+ display:none;
+}
+#nbateam {
+  text-align: center;
+  background-color:powderblue;
+}
+#myf {
+  text-align: center;
+  background-color: powderblue;
+}
+
+
+
